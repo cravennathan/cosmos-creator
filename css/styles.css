@@ -221,3 +221,9 @@ button.float-bottom {
     width: 70px;
     height:70px;
 }
+
+.inspiration-container .section-heading {
+    margin: 15px 0;
+    font-size: 18px;
+    
+}
